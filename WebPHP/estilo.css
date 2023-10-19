@@ -1,0 +1,71 @@
+.fotos{
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.texto{
+    color: black;
+    font-weight: 500;
+}
+.titulo{
+    font-size: 70px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu{
+    background-color: rgb(106, 28, 28);
+}
+.tituloMenu{
+    font-weight: 500;
+    font-size: 25px;
+}
+/* Anuncios index/tapas */
+.filas{
+    margin-right:auto;
+}
+/* Texto/cajas de anuncios */
+.textoP, .caja{
+    padding-left:40px ;
+    width: 98%;
+}
+/* Productos */
+.col-lg-4{
+    padding-top: 30px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+.sidebar, .fondoTitulo{
+    background-color: bisque;
+}
+/* Texto de tapas Proximamente*/
+.textoA{
+    text-align: center;
+    padding-left:40px ;
+    width: 98%;
+}
+.whatsapp{
+    color: green;
+}
+.facebook{
+    color: blue;
+}
+.google{
+    color: red;
+}
+/* Redes Sociales */
+.float-end{
+    padding-top: 5px;
+}
+/* Imagen sidebar */
+.fotoSide{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+}
